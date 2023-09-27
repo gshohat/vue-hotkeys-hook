@@ -1,0 +1,49 @@
+{
+  "name": "vue-hotkeys-hook",
+  "version": "1.0.0",
+  "author": "Gilad Shohat",
+  "description": "Vue hook for handling keyboard shortcuts",
+  "homepage": "https://github.com/gshohat/vue-hotkeys-hook#readme",
+  "license": "MIT",
+  "main": "./dist/hotkeys-hook.umd.js",
+  "module": "./dist/hotkeys-hook.es.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/hotkeys-hook.es.js",
+      "require": "./dist/hotkeys-hook.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "path": "^0.12.7",
+    "vite": "^4.4.6"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "component",
+    "vue-component",
+    "hook",
+    "hooks",
+    "hotkey",
+    "shortcut",
+    "keyboard",
+    "shortcuts",
+    "keypress",
+    "hotkeys"
+  ]
+}
+
+
