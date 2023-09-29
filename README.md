@@ -9,7 +9,7 @@
 ## Usage
 
 `npm i vue-hotkeys-hook`
-``
+
 ```
 <script setup>
 import {useHotkeys} from 'vue-hotkeys-hook';
