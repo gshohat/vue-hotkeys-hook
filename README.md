@@ -1,4 +1,4 @@
-# Vue chat elements
+# Vue Hotkeys Hook
 
 ![NPM License](https://img.shields.io/npm/l/vue-hotkeys-hook)
 
