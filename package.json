@@ -1,6 +1,6 @@
 {
   "name": "vue-hotkeys-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Gilad Shohat",
   "description": "Vue hook for handling keyboard shortcuts",
   "homepage": "https://github.com/gshohat/vue-hotkeys-hook#readme",
