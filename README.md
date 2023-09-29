@@ -4,6 +4,8 @@
 
 **Lightweight** [Vue](https://vuejs.org/) hook for using keyboard shortcuts in components in a declarative way **< 5k** 😎 <br>
 
+![hotkeys-hook](https://github.com/gshohat/vue-hotkeys-hook/assets/91323932/97d80fe1-f516-4fcb-878d-ad05a9bd6647)
+
 ## Usage
 
 `npm i vue-hotkeys-hook`
